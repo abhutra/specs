@@ -1,3 +1,15 @@
+---
+title: "Identity Document"
+category: "reference"
+index: 0
+prefix: "/pki"
+type: "content"
+tags:
+    - programming
+    - stuff
+    - other
+---
+
 # Identity Document
 
 The Identity document is stored on IPFS and tied to the address using the uport registry as specified in the [PKI document](../index).
@@ -42,7 +54,3 @@ Name | Description | Required
 `name` | Name of identity | no
 `description` | Description of identity | no
 `image` | Avatar or logo of identity (Uses [ImageObject](http://schema.org/ImageObject) with `contentUrl`) | no
-
-
-
-
