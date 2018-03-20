@@ -1,8 +1,6 @@
 ---
 title: "Uport PKI"
 category: "reference"
-index: 0
-prefix: "/pki"
 type: "content"
 tags:
     - programming
@@ -72,7 +70,7 @@ The image currently has to be stored in IPFS and the format should look like thi
 
 ## Verifying a signature
 
-Any [Signed Message](../messages/index.md) has an `iss` attribute. This contains an [MNID](https://github.com/uport-project/mnid).
+Any [Signed Message](/messages/index.md) has an `iss` attribute. This contains an [MNID](https://github.com/uport-project/mnid).
 
 An MNID contains an Ethereum address, the network id as well as a checksum.
 

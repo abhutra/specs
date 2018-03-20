@@ -1,8 +1,6 @@
 ---
 title: "Veriication"
 category: "reference"
-index: 0
-prefix: "/messages"
 type: "content"
 tags:
     - programming
@@ -13,7 +11,7 @@ tags:
 
 # Verification
 
-A Verification is a statement issued by a third party verifying claims about an identity [Verification Flow](../flows/verification.md).
+A Verification is a statement issued by a third party verifying claims about an identity [Verification Flow](/flows/verification.md).
 
 Verifications are always signed.
 

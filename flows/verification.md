@@ -1,7 +1,5 @@
 ---
 title: "Send Verification Flow"
-index: 3
-prefix: "/flows"
 category: "reference"
 type: "content"
 tags:
@@ -31,7 +29,7 @@ The request should be sent to one of the following URLs:
 
 ## Send Verifications
 
-Create one or more [Verification's](../messages/verification.md) and send it to the uPort mobile app in the `attestations` query parameter. Multiple verifications can be included by comma separating them.
+Create one or more [Verification's](/messages/verification.md) and send it to the uPort mobile app in the `attestations` query parameter. Multiple verifications can be included by comma separating them.
 
 Example:
 
